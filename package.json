@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/joshuahills/starshipnews-backend/issues"
   },
-  "homepage": "https://github.com/joshuahills/starshipnews-backend#readme"
+  "homepage": "https://github.com/joshuahills/starshipnews-backend#readme",
+  "dependencies": {
+    "koa": "^2.13.1"
+  }
 }
